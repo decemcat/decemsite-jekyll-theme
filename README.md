@@ -1,1 +1,1 @@
-"# decemsite-jekyll-theme" 
+# decemsite jekyll theme
